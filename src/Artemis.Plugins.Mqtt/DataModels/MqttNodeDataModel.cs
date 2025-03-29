@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using Artemis.Core.Modules;
-using Swan;
 
 namespace Artemis.Plugins.Mqtt.DataModels;
 
